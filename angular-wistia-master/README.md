@@ -7,7 +7,7 @@
  Once the file completes uploading, it shows as an embedded Wistia video player.
  
 # Demo
-<a href="http://time-shift.com.s58.hhos.ru/#/">Demo file upload</>
+<a href="http://time-shift.com.s58.hhos.ru/#/">Demo file upload</a>
 
 # Unit Testing
 Jasmine, Karma
