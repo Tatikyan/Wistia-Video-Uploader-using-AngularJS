@@ -9,16 +9,16 @@ $ npm install
 $ npm start
 $ npm test
 ```
-#Description:
+# Description:
 
  User click an upload button, pick a file.
  The widget uploads the file to Wistia, showing progress in a progress bar.
  Once the file completes uploading, it shows as an embedded Wistia video player.
 
-#Unit Testing
+# Unit Testing
 Jasmine, Karma
 
-#Technologies Used
+# Technologies Used
 
 AngularJs v1.5
 
@@ -28,7 +28,7 @@ angular-mocks v1.5.0
 
 jasmine-core v2.3.4
 
-#Licence 
+# Licence 
 Released under the MIT license.
 
 # Link to Blueimp file uploader
