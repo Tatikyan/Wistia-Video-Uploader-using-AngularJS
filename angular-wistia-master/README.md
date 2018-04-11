@@ -32,3 +32,5 @@ $ npm install
 $ npm start
 $ npm test
 ```
+![screenshot_9](https://user-images.githubusercontent.com/16710674/38637663-e1d2d31e-3ddc-11e8-8a94-209f1c7dce10.png)
+![screenshot_8](https://user-images.githubusercontent.com/16710674/38637668-e4dc8abe-3ddc-11e8-9b2b-fd8b55ede9f4.png)
