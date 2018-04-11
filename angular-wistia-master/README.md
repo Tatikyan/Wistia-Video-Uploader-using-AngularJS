@@ -5,6 +5,9 @@
  User click an upload button, pick a file.
  The widget uploads the file to Wistia, showing progress in a progress bar.
  Once the file completes uploading, it shows as an embedded Wistia video player.
+ 
+# Demo
+<a href="http://time-shift.com.s58.hhos.ru/#/">Demo file upload</>
 
 # Unit Testing
 Jasmine, Karma
